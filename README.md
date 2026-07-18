@@ -44,7 +44,8 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
   <br><br>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Figma-%23FF7262.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
  <img src="https://img.shields.io/badge/-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
